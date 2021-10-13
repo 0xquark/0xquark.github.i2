@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HeroCTF on Itarow</title>
+    <link>https://itarow.github.io/categories/heroctf/</link>
+    <description>Recent content in HeroCTF on Itarow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Itarow</copyright>
+    <lastBuildDate>Wed, 28 Apr 2021 15:56:19 +0200</lastBuildDate><atom:link href="https://itarow.github.io/categories/heroctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HeroCTFv3 - We_need_you - Write up</title>
+      <link>https://itarow.github.io/posts/heroctfv3-we_need_you/</link>
+      <pubDate>Wed, 28 Apr 2021 15:56:19 +0200</pubDate>
+      
+      <guid>https://itarow.github.io/posts/heroctfv3-we_need_you/</guid>
+      <description>Here is my write-up of the five dump analyze forensic challenges made by Worty (https://twitter.com/_Worty) for the HeroCTF v3.
+We need you 1/5 1Interpol and the FBI have been investigating for over a year now. They are trying to get their hands on two hackers very well known for their ransomware and their ultra efficient botnet. 2 3After long months of investigation, they managed to get their hands on one of their servers.</description>
+    </item>
+    
+    <item>
+      <title>HeroCTFv3 - Box_dev0ps - Write up</title>
+      <link>https://itarow.github.io/posts/heroctfv3-box_dev0ps/</link>
+      <pubDate>Tue, 27 Apr 2021 15:43:15 +0200</pubDate>
+      
+      <guid>https://itarow.github.io/posts/heroctfv3-box_dev0ps/</guid>
+      <description>Hi everyone, this is my write-up of the Box challenge from the HeroCTFv3, challenge which was created by xanhacks (https://twitter.com/xanhacks). The box was in three parts, first, get a shell on the first docker, after, get a shell on the second docker, and last part, get root privilege.
+Foothold Nmap scan first (which was given) :
+$ nmap -p 3000,8080,2222 box.heroctf.fr -sV Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-18 22:30 CEST Nmap scan report for box.</description>
+    </item>
+    
+  </channel>
+</rss>
